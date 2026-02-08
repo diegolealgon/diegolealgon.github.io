@@ -1,0 +1,34 @@
+{
+  "name": "Diego Leal",
+  "bio": "Diego Leal is a consulting lead with 10+ years of experience guiding teams through growth, operational change, and data-informed decision making. He partners closely with executives and product leaders to translate goals into clear roadmaps and measurable outcomes.",
+  "services": [
+    "Strategic planning and operating model design",
+    "Product and portfolio prioritization workshops",
+    "Analytics instrumentation and KPI frameworks",
+    "Process optimization and automation roadmaps",
+    "Executive advisory and interim leadership support"
+  ],
+  "projects": [
+    {
+      "title": "DCF Valuation Sandbox",
+      "description": "Interactive discounted cash flow modeling workspace for scenario analysis and sensitivity testing.",
+      "tags": ["Finance", "Valuation", "Streamlit"],
+      "live_demo": "https://streamlit.app/your-dcf-sandbox",
+      "code": "https://github.com/your-handle/dcf-valuation-sandbox"
+    },
+    {
+      "title": "Portfolio Optimizer",
+      "description": "Modern portfolio construction tool with risk constraints and efficient frontier insights.",
+      "tags": ["Portfolio", "Optimization", "Streamlit"],
+      "live_demo": "https://streamlit.app/your-portfolio-optimizer",
+      "code": "https://github.com/your-handle/portfolio-optimizer"
+    },
+    {
+      "title": "Risk Dashboard",
+      "description": "Consolidated market and exposure metrics with clear thresholds and alerting views.",
+      "tags": ["Risk", "Monitoring", "Streamlit"],
+      "live_demo": "https://streamlit.app/your-risk-dashboard",
+      "code": "https://github.com/your-handle/risk-dashboard"
+    }
+  ]
+}
