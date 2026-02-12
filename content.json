@@ -10,24 +10,31 @@
   ],
   "projects": [
     {
+      "title": "DCF Valuation Playground",
+      "description": "Interactive valuation workspace used in consulting engagements to test growth, WACC, and terminal assumptions with real-time sensitivity analysis. Helps leadership teams pressure-test valuation narratives before capital allocation decisions.",
+      "tags": ["Valuation", "Financial Modeling", "Streamlit"],
+      "live_demo": "https://dcf-valuation-playground.streamlit.app",
+      "code": "https://github.com/diegolealgon/dcf-valuation-playground"
+    },
+    {
       "title": "Minimum Variance Futures Hedge Calculator",
       "description": "Advisory-focused Streamlit tool that helps trading and treasury teams size minimum-variance futures hedges using correlation and volatility assumptions. Supports rapid what-if analysis for hedge ratio and contract count decisions.",
       "tags": ["Hedging", "Risk Management", "Streamlit"],
-      "live_demo": "",
+      "live_demo": "https://futures-hedge-streamlit-app.streamlit.app",
       "code": "https://github.com/diegolealgon/diego_leal_projects/tree/main/futures_hedge_streamlit_app"
     },
     {
       "title": "Correlation Sensitivity for Optimal Hedge Ratio",
       "description": "Visual analytics app that maps correlation to hedge ratio under fixed spot/futures volatility assumptions. Designed for client workshops to explain hedge effectiveness and assumption sensitivity in plain terms.",
       "tags": ["Sensitivity Analysis", "Commodities", "Streamlit"],
-      "live_demo": "",
+      "live_demo": "https://hedge-ratio-correlation-app.streamlit.app",
       "code": "https://github.com/diegolealgon/diego_leal_projects/tree/main/hedge_ratio_correlation_app"
     },
     {
       "title": "Portfolio Beta Hedging with Index Futures",
       "description": "Decision-support app for equity portfolio managers to calculate minimum-risk index futures hedges and target-beta adjustments. Converts market assumptions into actionable long/short contract recommendations.",
       "tags": ["Portfolio Risk", "Beta Management", "Streamlit"],
-      "live_demo": "",
+      "live_demo": "https://portfolio-beta-hedge-app.streamlit.app",
       "code": "https://github.com/diegolealgon/diego_leal_projects/tree/main/portfolio_beta_hedge_app"
     }
   ]
